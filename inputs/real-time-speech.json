@@ -1,0 +1,2587 @@
+[
+    {
+        "Id": "96b2837ae4d1448f9ff01a3a69750897",
+        "RecognitionStatus": 0,
+        "Offset": 8300000,
+        "Duration": 80400000,
+        "Channel": 0,
+        "DisplayText": "What is natural language processing? The main goal is to enable computers to understand, interpret and generate human language.",
+        "NBest": [
+            {
+                "Confidence": 0.8852092,
+                "Lexical": "what is natural language processing the main goal is to enable computers to understand interpret and generate human language",
+                "ITN": "what is natural language processing the main goal is to enable computers to understand interpret and generate human language",
+                "MaskedITN": "what is natural language processing the main goal is to enable computers to understand interpret and generate human language",
+                "Display": "What is natural language processing? The main goal is to enable computers to understand, interpret and generate human language.",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 8300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 15900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 18300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 23100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 37100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "main",
+                        "Offset": 39100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "goal",
+                        "Offset": 41500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 44700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 45900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 46700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "computers",
+                        "Offset": 50300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 57100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 58300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "interpret",
+                        "Offset": 65900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 73500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "generate",
+                        "Offset": 75500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 80300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 83100000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8860273,
+                "Lexical": "what is natural language processing the main goal is to enable computer to understand interpret and generate human language",
+                "ITN": "what is natural language processing the main goal is to enable computer to understand interpret and generate human language",
+                "MaskedITN": "what is natural language processing the main goal is to enable computer to understand interpret and generate human language",
+                "Display": "what is natural language processing the main goal is to enable computer to understand interpret and generate human language",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 8300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 15900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 18300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 23100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 37100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "main",
+                        "Offset": 39100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "goal",
+                        "Offset": 41500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 44700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 45900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 46700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 50300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 56300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 58300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "interpret",
+                        "Offset": 65900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 73500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "generate",
+                        "Offset": 75500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 80300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 83100000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.84624296,
+                "Lexical": "what is natural language processing the main goal is to enable a computer to understand interpret and generate human language",
+                "ITN": "what is natural language processing the main goal is to enable a computer to understand interpret and generate human language",
+                "MaskedITN": "what is natural language processing the main goal is to enable a computer to understand interpret and generate human language",
+                "Display": "what is natural language processing the main goal is to enable a computer to understand interpret and generate human language",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 8300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 15900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 18300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 23100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 37100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "main",
+                        "Offset": 39100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "goal",
+                        "Offset": 41500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 44700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 45900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 46700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 50300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 50700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 56300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 58300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "interpret",
+                        "Offset": 65900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 73500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "generate",
+                        "Offset": 75500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 80300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 83100000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8619587,
+                "Lexical": "what is natural language processing the main goal is to enable computers to understand and generate human language",
+                "ITN": "what is natural language processing the main goal is to enable computers to understand and generate human language",
+                "MaskedITN": "what is natural language processing the main goal is to enable computers to understand and generate human language",
+                "Display": "what is natural language processing the main goal is to enable computers to understand and generate human language",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 8300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 15900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 18300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 23100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 37100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "main",
+                        "Offset": 39100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "goal",
+                        "Offset": 41500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 44700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 45900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 46700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "computers",
+                        "Offset": 50300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 57100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 58300000,
+                        "Duration": 15200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 73500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "generate",
+                        "Offset": 75500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 80300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 83100000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8648065,
+                "Lexical": "what is natural language processing the main goal is to enable computer to understand and generate human language",
+                "ITN": "what is natural language processing the main goal is to enable computer to understand and generate human language",
+                "MaskedITN": "what is natural language processing the main goal is to enable computer to understand and generate human language",
+                "Display": "what is natural language processing the main goal is to enable computer to understand and generate human language",
+                "Words": [
+                    {
+                        "Word": "what",
+                        "Offset": 8300000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 15900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 18300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 23100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 37100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "main",
+                        "Offset": 39100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "goal",
+                        "Offset": 41500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 44700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 45900000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "enable",
+                        "Offset": 46700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 50300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 56300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "understand",
+                        "Offset": 58300000,
+                        "Duration": 15200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 73500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "generate",
+                        "Offset": 75500000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 80300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 83100000,
+                        "Duration": 5600000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "516337b1740f45ba9f259a826eecdaed",
+        "RecognitionStatus": 0,
+        "Offset": 95900000,
+        "Duration": 102800000,
+        "Channel": 0,
+        "DisplayText": "Some key aspects of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language.",
+        "NBest": [
+            {
+                "Confidence": 0.8526255,
+                "Lexical": "some key aspects of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language",
+                "ITN": "some key aspects of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language",
+                "MaskedITN": "some key aspects of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language",
+                "Display": "Some key aspects of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language.",
+                "Words": [
+                    {
+                        "Word": "some",
+                        "Offset": 95900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "key",
+                        "Offset": 99500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aspects",
+                        "Offset": 101500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 110300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 114700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 118300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 123900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 142700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 143100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 147500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "understanding",
+                        "Offset": 150700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 161500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comprehends",
+                        "Offset": 163100000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 172700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 173900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 178700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "intent",
+                        "Offset": 181500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "behind",
+                        "Offset": 185500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 188700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 191500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8871038,
+                "Lexical": "some key aspects of natural language processing are natural language understanding that comprehends the meaning and intent behind human language",
+                "ITN": "some key aspects of natural language processing are natural language understanding that comprehends the meaning and intent behind human language",
+                "MaskedITN": "some key aspects of natural language processing are natural language understanding that comprehends the meaning and intent behind human language",
+                "Display": "some key aspects of natural language processing are natural language understanding that comprehends the meaning and intent behind human language",
+                "Words": [
+                    {
+                        "Word": "some",
+                        "Offset": 95900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "key",
+                        "Offset": 99500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aspects",
+                        "Offset": 101500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 110300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 114700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 118300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 123900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 143100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 147500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "understanding",
+                        "Offset": 150700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 161500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comprehends",
+                        "Offset": 163100000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 172700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 173900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 178700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "intent",
+                        "Offset": 181500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "behind",
+                        "Offset": 185500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 188700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 191500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8221063,
+                "Lexical": "some key aspects of natural language processing are a natural language understanding that comprehends the meaning in intent behind human language",
+                "ITN": "some key aspects of natural language processing are a natural language understanding that comprehends the meaning in intent behind human language",
+                "MaskedITN": "some key aspects of natural language processing are a natural language understanding that comprehends the meaning in intent behind human language",
+                "Display": "some key aspects of natural language processing are a natural language understanding that comprehends the meaning in intent behind human language",
+                "Words": [
+                    {
+                        "Word": "some",
+                        "Offset": 95900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "key",
+                        "Offset": 99500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aspects",
+                        "Offset": 101500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 110300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 114700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 118300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 123900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 142700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 143100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 147500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "understanding",
+                        "Offset": 150700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 161500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comprehends",
+                        "Offset": 163100000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 172700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 173900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 178300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "intent",
+                        "Offset": 181500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "behind",
+                        "Offset": 185500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 188700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 191500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8550586,
+                "Lexical": "some key aspects of natural language processing are natural language understanding that comprehends the meaning in intent behind human language",
+                "ITN": "some key aspects of natural language processing are natural language understanding that comprehends the meaning in intent behind human language",
+                "MaskedITN": "some key aspects of natural language processing are natural language understanding that comprehends the meaning in intent behind human language",
+                "Display": "some key aspects of natural language processing are natural language understanding that comprehends the meaning in intent behind human language",
+                "Words": [
+                    {
+                        "Word": "some",
+                        "Offset": 95900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "key",
+                        "Offset": 99500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "aspects",
+                        "Offset": 101500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 110300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 114700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 118300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 123900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 143100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 147500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "understanding",
+                        "Offset": 150700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 161500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comprehends",
+                        "Offset": 163100000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 172700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 173900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 178300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "intent",
+                        "Offset": 181500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "behind",
+                        "Offset": 185500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 188700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 191500000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8069253,
+                "Lexical": "some key specs of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language",
+                "ITN": "some key specs of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language",
+                "MaskedITN": "some key specs of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language",
+                "Display": "some key specs of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language",
+                "Words": [
+                    {
+                        "Word": "some",
+                        "Offset": 95900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "key",
+                        "Offset": 99500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "specs",
+                        "Offset": 101900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 107500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 110300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 114700000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "processing",
+                        "Offset": 118300000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "are",
+                        "Offset": 123900000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 142700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 143100000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 147500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "understanding",
+                        "Offset": 150700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 161500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "comprehends",
+                        "Offset": 163100000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 172700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "meaning",
+                        "Offset": 173900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 178700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "intent",
+                        "Offset": 181500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "behind",
+                        "Offset": 185500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 188700000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 191500000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "2512c96391694ac1b64a85ea6816d3fd",
+        "RecognitionStatus": 0,
+        "Offset": 214400000,
+        "Duration": 34400000,
+        "Channel": 0,
+        "DisplayText": "Another one is natural language generation that process.",
+        "NBest": [
+            {
+                "Confidence": 0.87792814,
+                "Lexical": "another one is natural language generation that process",
+                "ITN": "another one is natural language generation that process",
+                "MaskedITN": "another one is natural language generation that process",
+                "Display": "Another one is natural language generation that process.",
+                "Words": [
+                    {
+                        "Word": "another",
+                        "Offset": 214400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 217200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 218400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 219200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 223200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "generation",
+                        "Offset": 226400000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 236800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 239200000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7845789,
+                "Lexical": "another one is that natural language generation that process",
+                "ITN": "another one is that natural language generation that process",
+                "MaskedITN": "another one is that natural language generation that process",
+                "Display": "another one is that natural language generation that process",
+                "Words": [
+                    {
+                        "Word": "another",
+                        "Offset": 214400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 217200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 218400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 219200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 220800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 223600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "generation",
+                        "Offset": 226800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 236800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 239200000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.78326946,
+                "Lexical": "another one is like natural language generation that process",
+                "ITN": "another one is like natural language generation that process",
+                "MaskedITN": "another one is like natural language generation that process",
+                "Display": "another one is like natural language generation that process",
+                "Words": [
+                    {
+                        "Word": "another",
+                        "Offset": 214400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 217200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 218400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "like",
+                        "Offset": 219200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 220800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 223600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "generation",
+                        "Offset": 226800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 236800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 239200000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8120782,
+                "Lexical": "another one is natural language generation that pres",
+                "ITN": "another one is natural language generation that pres",
+                "MaskedITN": "another one is natural language generation that pres",
+                "Display": "another one is natural language generation that pres",
+                "Words": [
+                    {
+                        "Word": "another",
+                        "Offset": 214400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 217200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 218400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 219200000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 223200000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "generation",
+                        "Offset": 226400000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 236800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pres",
+                        "Offset": 239200000,
+                        "Duration": 9200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7260456,
+                "Lexical": "another one is that natural language generation that pres",
+                "ITN": "another one is that natural language generation that pres",
+                "MaskedITN": "another one is that natural language generation that pres",
+                "Display": "another one is that natural language generation that pres",
+                "Words": [
+                    {
+                        "Word": "another",
+                        "Offset": 214400000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 217200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 218400000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 219200000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "natural",
+                        "Offset": 220800000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 223600000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "generation",
+                        "Offset": 226800000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 236800000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "pres",
+                        "Offset": 239200000,
+                        "Duration": 9200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "b9407f8abdcf4ee5a696735e315b54de",
+        "RecognitionStatus": 0,
+        "Offset": 261100000,
+        "Duration": 65600000,
+        "Channel": 0,
+        "DisplayText": "That is the process of producing human readable text or speech from a computer's representation of data.",
+        "NBest": [
+            {
+                "Confidence": 0.8288474,
+                "Lexical": "that is the process of producing human readable text or speech from a computer 's representation of data",
+                "ITN": "that is the process of producing human readable text or speech from a computer's representation of data",
+                "MaskedITN": "that is the process of producing human readable text or speech from a computer's representation of data",
+                "Display": "That is the process of producing human readable text or speech from a computer's representation of data.",
+                "Words": [
+                    {
+                        "Word": "that",
+                        "Offset": 261100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 263100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 263900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 265100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 269100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "producing",
+                        "Offset": 270300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 277500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "readable",
+                        "Offset": 281500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 288300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 292300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 293100000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 304300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 306300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 306700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 311100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "representation",
+                        "Offset": 311500000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 319900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.85904425,
+                "Lexical": "that is the process of producing human readable text or speech from a computers representation of data",
+                "ITN": "that is the process of producing human readable text or speech from a computers representation of data",
+                "MaskedITN": "that is the process of producing human readable text or speech from a computers representation of data",
+                "Display": "that is the process of producing human readable text or speech from a computers representation of data",
+                "Words": [
+                    {
+                        "Word": "that",
+                        "Offset": 261100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 263100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 263900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 265100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 269100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "producing",
+                        "Offset": 270300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 277500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "readable",
+                        "Offset": 281500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 288300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 292300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 293100000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 304300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 306300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "computers",
+                        "Offset": 306700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "representation",
+                        "Offset": 311500000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 319900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7807855,
+                "Lexical": "that is the process of producing human readable texts or speech from a computer 's representation of data",
+                "ITN": "that is the process of producing human readable texts or speech from a computer 's representation of data",
+                "MaskedITN": "that is the process of producing human readable texts or speech from a computer 's representation of data",
+                "Display": "that is the process of producing human readable texts or speech from a computer 's representation of data",
+                "Words": [
+                    {
+                        "Word": "that",
+                        "Offset": 261100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 263100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 263900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 265100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 269100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "producing",
+                        "Offset": 270300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 277500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "readable",
+                        "Offset": 281500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "texts",
+                        "Offset": 287100000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 296300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 298700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 304300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 306300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 306700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 311100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "representation",
+                        "Offset": 311500000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 319900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.86255103,
+                "Lexical": "that is the process of producing human readable text or speech from a computer representation of data",
+                "ITN": "that is the process of producing human readable text or speech from a computer representation of data",
+                "MaskedITN": "that is the process of producing human readable text or speech from a computer representation of data",
+                "Display": "that is the process of producing human readable text or speech from a computer representation of data",
+                "Words": [
+                    {
+                        "Word": "that",
+                        "Offset": 261100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 263100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 263900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 265100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 269100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "producing",
+                        "Offset": 270300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 277500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "readable",
+                        "Offset": 281500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 288300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 292300000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 293100000,
+                        "Duration": 11200000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 304300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 306300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 306700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "representation",
+                        "Offset": 311900000,
+                        "Duration": 8000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 319900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8081558,
+                "Lexical": "that is the process of producing human readable texts or speech from a computers representation of data",
+                "ITN": "that is the process of producing human readable texts or speech from a computers representation of data",
+                "MaskedITN": "that is the process of producing human readable texts or speech from a computers representation of data",
+                "Display": "that is the process of producing human readable texts or speech from a computers representation of data",
+                "Words": [
+                    {
+                        "Word": "that",
+                        "Offset": 261100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 263100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 263900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "process",
+                        "Offset": 265100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 269100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "producing",
+                        "Offset": 270300000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "human",
+                        "Offset": 277500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "readable",
+                        "Offset": 281500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "texts",
+                        "Offset": 287100000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 296300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 298700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "from",
+                        "Offset": 304300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 306300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "computers",
+                        "Offset": 306700000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "representation",
+                        "Offset": 311500000,
+                        "Duration": 8400000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 319900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 321500000,
+                        "Duration": 5200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "d43b5f59e6fb426fa5720a2af09d103c",
+        "RecognitionStatus": 0,
+        "Offset": 343900000,
+        "Duration": 114800000,
+        "Channel": 0,
+        "DisplayText": "The next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to spoken language.",
+        "NBest": [
+            {
+                "Confidence": 0.8491159,
+                "Lexical": "the next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to spoken language",
+                "ITN": "the next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to spoken language",
+                "MaskedITN": "the next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to spoken language",
+                "Display": "The next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to spoken language.",
+                "Words": [
+                    {
+                        "Word": "the",
+                        "Offset": 343900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 345100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 351900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 353500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 355900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "recognition",
+                        "Offset": 359500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 366300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "converts",
+                        "Offset": 369900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 376700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 381100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "into",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 388700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 392700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 406300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 408300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 412300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 415100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 418300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 421100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 422300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "converting",
+                        "Offset": 431900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 437900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 441100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 445100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 446300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 450700000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.841385,
+                "Lexical": "the next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "ITN": "the next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "MaskedITN": "the next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "Display": "the next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "Words": [
+                    {
+                        "Word": "the",
+                        "Offset": 343900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 345100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 351900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 353500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 355900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "recognition",
+                        "Offset": 359500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 366300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "converts",
+                        "Offset": 369900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 376700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 381100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "into",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 388700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 392700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 406300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 408300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 412300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 415100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 418300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 421100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 422300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "converting",
+                        "Offset": 431900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 437900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 441100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 445100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "speaking",
+                        "Offset": 446300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 453100000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.84188706,
+                "Lexical": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to spoken language",
+                "ITN": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to spoken language",
+                "MaskedITN": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to spoken language",
+                "Display": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to spoken language",
+                "Words": [
+                    {
+                        "Word": "the",
+                        "Offset": 343900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 345100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 351900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 353500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 355900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "recognition",
+                        "Offset": 359500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 366300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "comforts",
+                        "Offset": 369900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 376700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 381100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "into",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 388700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 392700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 406300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 408300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 412300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 415100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 418300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 421100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 422300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "converting",
+                        "Offset": 431900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 437900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 441100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 445100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 446300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 450700000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.83147854,
+                "Lexical": "the next we have speech recognition that converts the spoken language into written text and another one is text or speech converting written text to spoken language",
+                "ITN": "the next we have speech recognition that converts the spoken language into written text and another one is text or speech converting written text to spoken language",
+                "MaskedITN": "the next we have speech recognition that converts the spoken language into written text and another one is text or speech converting written text to spoken language",
+                "Display": "the next we have speech recognition that converts the spoken language into written text and another one is text or speech converting written text to spoken language",
+                "Words": [
+                    {
+                        "Word": "the",
+                        "Offset": 343900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 345100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 351900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 353500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 355900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "recognition",
+                        "Offset": 359500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 366300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "converts",
+                        "Offset": 369900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 376700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 381100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "into",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 388700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 392700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 406300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 408300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 412300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 415100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 418300000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "or",
+                        "Offset": 421500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 422300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "converting",
+                        "Offset": 431900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 437900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 441100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 445100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 446300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 450700000,
+                        "Duration": 8000000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.83415616,
+                "Lexical": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "ITN": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "MaskedITN": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "Display": "the next we have speech recognition that comforts the spoken language into written text and another one is text to speech converting written text to speaking language",
+                "Words": [
+                    {
+                        "Word": "the",
+                        "Offset": 343900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "next",
+                        "Offset": 345100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 351900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 353500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 355900000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "recognition",
+                        "Offset": 359500000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 366300000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "comforts",
+                        "Offset": 369900000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 375500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "spoken",
+                        "Offset": 376700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 381100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "into",
+                        "Offset": 385900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 388700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 392700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 406300000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "another",
+                        "Offset": 408300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "one",
+                        "Offset": 412300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 415100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 418300000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 421100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "speech",
+                        "Offset": 422300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "converting",
+                        "Offset": 431900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "written",
+                        "Offset": 437900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "text",
+                        "Offset": 441100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 445100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "speaking",
+                        "Offset": 446300000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "language",
+                        "Offset": 453100000,
+                        "Duration": 5600000
+                    }
+                ]
+            }
+        ]
+    }
+]

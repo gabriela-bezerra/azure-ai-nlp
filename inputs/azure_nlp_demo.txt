@@ -1,0 +1,36 @@
+- Speech Studio 
+
+
+
+Real-time speech to text
+
+Input: 
+Audio Recorded
+
+Output: 
+What is natural language processing? The main goal is to enable computers to understand, interpret and generate human language. Some key aspects of natural language processing are a natural language understanding that comprehends the meaning and intent behind human language. Another one is natural language generation that process. That is the process of producing human readable text or speech from a computer's representation of data. The next we have speech recognition that converts the spoken language into written text and another one is text to speech converting written text to spoken language. 
+
+
+
+
+- Language Studio
+
+Sentiment and opnion tryout
+
+Input: 
+Tired hotel with poor service
+ The Royal Hotel, London, United Kingdom
+ 5/6/2018
+ This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk.
+
+
+Output: 
+Analyzed sentiment
+
+Document sentiment
+Negative - Confidence: 0.00%
+
+POSITIVE 0.00%
+NEUTRAL  3.00%
+NEGATIVE  96.00%
+
